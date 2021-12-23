@@ -18,7 +18,7 @@ body {
 }
 
 .small-text {
-  color: #5b5b5b;
+  color: white;
   font-size: 14px;
   font-weight: bold;
   padding: 8px 16px;
@@ -51,7 +51,7 @@ p {
   font-size: 18px;
   font-weight: 300;
   line-height: 1.5;
-  color: #5b5b5b;
+  color: white;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -60,13 +60,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  color: #212121;
+  color: white;
   font-size: 2.8em;
   margin: 24px 0;
 }
 
 h2 {
-  color: #353535;
+  color: white;
   font-size: 2.4em;
   font-weight: bold;
 }
@@ -82,7 +82,7 @@ b, strong {
 
 .custom-btn {
   background: #eee;
-  color: #5b5b5b;
+  color: white;
   font-weight: bold;
   border-radius: 50px;
   padding: 13px 29px;
@@ -567,4 +567,9 @@ b, strong {
     display: inline-block;
     vertical-align: top;
   }
+}
+
+.nav-link
+{
+	color:white;
 }
